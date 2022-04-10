@@ -15,13 +15,15 @@ Original goal was to have a POS (point of sale) system for patron(s) to order fr
 3. database
 4. 
 
-**Database items:**
+**Database tables to be created:**
 
-1. customerstable
+1. customers
    * firstname, lastname, emailaddress, mobilenumber
 2. addresstable
    * street, city, state, zipcode, region
-4. menutable
+3. ramenmenu
    * 
-5. orderstable
+4. ingredients
    * 
+5. orders
+6. ?pos? (pending decision and relationship)
