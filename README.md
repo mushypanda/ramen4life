@@ -1,4 +1,4 @@
-# ramen4life
+## ramen4life
 
 Trying to create a ramen place that is within a college campus that students, faculty, staff, and visitors can eat
 
